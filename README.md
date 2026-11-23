@@ -8,6 +8,8 @@ This repository holds:
 - the dictionary data shipped in the app, published under CC BY-SA 4.0 on the [releases page](https://github.com/petroleg/slovnychok/releases);
 - [issues](https://github.com/petroleg/slovnychok/issues) for support questions and corrections.
 
+The app is free. To support its development, see the [donate page](https://petroleg.github.io/slovnychok/donate.html).
+
 The app's source code is not part of this repository.
 
 ## Dictionary data
