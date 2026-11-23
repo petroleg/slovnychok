@@ -17,16 +17,14 @@ Each release contains:
 | File | Content |
 |---|---|
 | `dictionary.sqlite` | The English-Ukrainian dictionary (SQLite): entries, phrases, senses, examples, levels, relations and learning content |
-| `decks.json` | Word decks by topic and level |
 | `ngsl-deck.json` | NGSL 1.2 word deck |
-| `audio.tar.gz` | Pronunciation recordings from Wikimedia Commons (`audio` table gives author and license per file) |
 
 ### License
 
-The dictionary data (`dictionary.sqlite`, `decks.json`, `ngsl-deck.json`) is an adaptation of the sources below
+The dictionary data (`dictionary.sqlite`, `ngsl-deck.json`) is an adaptation of the sources below
 and is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) (full text in `LICENSE`).
 The adaptation combines the sources, adds Ukrainian translations, edits senses and examples, and assigns CEFR levels.
-The recordings in `audio.tar.gz` keep their own licenses (public domain, CC0 or CC BY), listed per file.
+The pronunciation recordings used by the app are not part of this release; they keep their own licenses (public domain, CC0 or CC BY), listed per file in the `audio` table.
 
 ### Sources and attribution
 
